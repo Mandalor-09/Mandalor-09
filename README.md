@@ -3,11 +3,11 @@
 
 - 🔭 This is my Latest Project [AI-Powered Study Plan Generator](https://8501-01j1fn3yqsg5xbvybfsgw8p2kh.cloudspaces.litng.ai/)
 
-- 🌱 I’m currently learning **Langchain,LlamaIndex,CrewAI**
-
 - 🔭 Gen AI Project [Diet Recomandation System](https://mi-vyre.onrender.com)
 
 - 🔭 Machine Learning Project [Phished Url Detector](https://phished-url-checker.onrender.com)
+
+- 🌱 I’m currently learning **Langchain,LlamaIndex,CrewAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mandalor-09](https://github.com/Mandalor-09)
 
