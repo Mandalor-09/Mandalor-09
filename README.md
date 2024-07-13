@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Om Singh</h1>
 <h3 align="center">Aspiring Data Scientist Skilled in statistical analysis and data visualization using Python, eager to apply these skills in machine learning. Continuously learning new tools and techniques, with a focus on mastering additional programming languages. Committed to data quality through meticulous data wrangling.</h3>
 
-- 🔭 This is my Latest Project [AI-Powered Study Plan Generator](https://8501-01j1fn3yqsg5xbvybfsgw8p2kh.cloudspaces.litng.ai/)
+- 🔭 This is my Latest Gen AI Project [AI-Powered Study Plan Generator](https://8501-01j1fn3yqsg5xbvybfsgw8p2kh.cloudspaces.litng.ai/)
 
 - 🔭 Gen AI Project [Diet Recomandation System](https://mi-vyre.onrender.com)
+
+- 🔭 Gen AI Project [Voice my Resume](https://huggingface.co/spaces/nimo007/VoiceMyResume)
+
+- - 🔭 Gen AI Project [Bargening Chat bot](https://github.com/Mandalor-09/Bg_Bot.git)
 
 - 🔭 Machine Learning Project [Phished Url Detector](https://phished-url-checker.onrender.com)
 
