@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Singh</h1>
+  <h1 align="center">Hi 👋, I'm Mandalor</h1>
 <h3 align="center">Aspiring Data Scientist Skilled in statistical analysis and data visualization using Python, eager to apply these skills in machine learning. Continuously learning new tools and techniques, with a focus on mastering additional programming languages. Committed to data quality through meticulous data wrangling.</h3>
 
 - 🔭 This is my Latest Gen AI Project [AI-Powered Study Plan Generator](https://8501-01j1fn3yqsg5xbvybfsgw8p2kh.cloudspaces.litng.ai/)
